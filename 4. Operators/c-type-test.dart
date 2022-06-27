@@ -11,8 +11,9 @@ void main() {
   //      as         Typecast (also used to specify library prefixes)
   //      is         True if the object has the specified type
   //      is!        True if the object doesn’t have the specified type
-  //      The        result of obj is T is true if obj implements the interface specified by T. For example, obj is Object? is always true.
 
+  // The result of obj is T is true if obj implements the interface specified
+  // by T. For example, obj is Object? is always true.
   // Use the as operator to cast an object to a particular type if and only if
   // you are sure that the object is of that type. Example:
 
